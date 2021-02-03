@@ -9,7 +9,7 @@
 </head>
 <body class="d-flex flex-column h-100">
     <nav class='navbar navbar-expand-lg navbar-dark bg-primary'>
-       <a href="#" class="navbar-brand">MON SITE D'ANNONCE</a>
+       <a href="#" class="navbar-brand">Project test simplifier ou pas </a>
     </nav>
 
     <div class="container mt-4">

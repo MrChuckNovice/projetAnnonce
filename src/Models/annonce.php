@@ -105,7 +105,7 @@ class Annonce extends Connection{
         return $this;
     }
 
-    private function createMiniature() {
+    /*private function createMiniature() {
 
         $photo = $this->getPhoto();
     
@@ -123,5 +123,5 @@ class Annonce extends Connection{
             return;
         }
 
-    }
+    }*/
 }

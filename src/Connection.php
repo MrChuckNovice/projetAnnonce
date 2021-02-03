@@ -3,7 +3,7 @@ namespace App;
 
  use PDO; 
 
-class Connection extends PDO {
+class Connection {
 
     public static function getPDO (): PDO {
         return new PDO('mysql:host=localhost;dbname=arcade;charset=utf8','root','', [

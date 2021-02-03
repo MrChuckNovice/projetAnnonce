@@ -25,6 +25,7 @@ $router
        ->get('/home','/post/home','home')
        ->get('/home/[*:slug]-[i:id]', 'post/show', 'annonce')
        ->get('/home/category','/category/show','category')
+       ->get('/404', '404', '404,')
        ->run();
 /*define('VIEW_PATH', dirname(__DIR__) . '/views');
 
